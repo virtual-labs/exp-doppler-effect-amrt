@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="ml-IN">
+
+  <file datatype="plaintext" original="DopplerEffect2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_AEROPLANE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_AIR">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CAR">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CART">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CHANGE_RECEIVER_VELOCITY">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CHANGE_SOURCE_VELOCITY">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_DETECTEDFREQTXT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_FREQOFSOUND">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_GLASS">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_HZ">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_JET">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_MOVREC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_MOVSRC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_MOVSRCREC">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_PAUSE">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_PLAY">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_SOURCEFREQTXT">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_SPEAKER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_STEEL">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TEST1">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_WATER ">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_WAVERECEIVER">
+        <source></source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_WAVESOURCE">
+        <source></source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
