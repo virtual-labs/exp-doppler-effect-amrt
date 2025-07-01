@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="DopplerEffect2.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_AEROPLANE">
+        <source>Aeroplane</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_AIR">
+        <source>Air, dry at 20 °C, 343m/s</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CAR">
+        <source>Car</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CART">
+        <source>Cart</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_CHANGE_RECEIVER_VELOCITY">
+        <source>Adjust Receiver Velocity </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_CHANGE_SOURCE_VELOCITY">
+        <source>Adjust Source Velocity</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_DETECTEDFREQTXT">
+        <source>Detected Frequency  </source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_FREQOFSOUND">
+        <source>Frequency of sound =                   </source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_GLASS">
+        <source>Glass, 3962m/s</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_HZ">
+        <source>hz</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_JET">
+        <source>Jet</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_MOVREC">
+        <source>move receiver,source stationary</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_MOVSRC">
+        <source>move source,receiver stationary</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_MOVSRCREC">
+        <source>both source and receiver move</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_PAUSE">
+        <source>pause animation</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_PLAY">
+        <source>play animation</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_SOURCEFREQTXT">
+        <source>Source Frequency  </source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_SPEAKER">
+        <source>Speaker</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_STEEL">
+        <source>Steel, 5800m/s</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_TEST1">
+        <source>test</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_WATER ">
+        <source>Water at 15 °C, 1482m/s</source>
+      </trans-unit>
+      <trans-unit id="022" resname="IDS_WAVERECEIVER">
+        <source>waves detected by the receiver</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_WAVESOURCE">
+        <source>waves emitted from the source           </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
