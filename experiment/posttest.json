@@ -1,38 +1,72 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+     {
+      "question": "The Doppler effect does not depend on the",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Frequency of source",
+        "b": "Velocity of observer",
+        "c": "Velocity of source",
+        "d": "Distance between source and observer"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "It affects the observed frequency due to movement.",
+        "b": "Observer velocity is part of the Doppler effect.",
+        "c": "Source velocity affects the frequency shift.",
+        "d": "Correct – Distance doesn't affect Doppler shift directly."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Sound waves are",
+      "answers": {
+        "a": "Transverse waves",
+        "b": "Longitudinal waves",
+        "c": "Electromagnetic waves",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "Incorrect – Sound waves are not transverse in air.",
+        "b": "Correct – In gases, sound propagates as longitudinal waves.",
+        "c": "Sound is mechanical, not electromagnetic.",
+        "d": "Incorrect – Option b is correct."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The unit of frequency is",
+      "answers": {
+        "a": "Hz",
+        "b": "m/s",
+        "c": "Å",
+        "d": "Watt"
+      },
+      "explanations": {
+        "a": "Correct – Hertz (Hz) is the unit of frequency.",
+        "b": "m/s is a unit of speed.",
+        "c": "Ångström is a unit of length.",
+        "d": "Watt is a unit of power."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "As the density of the medium increases, the speed of sound",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Decreases",
+        "b": "Increases",
+        "c": "No change",
+        "d": "Watt"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Incorrect – Speed can increase depending on elasticity.",
+        "b": "Correct – If elasticity is also high, speed increases.",
+        "c": "Speed is affected by both density and elasticity.",
+        "d": "Watt is unrelated here."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
