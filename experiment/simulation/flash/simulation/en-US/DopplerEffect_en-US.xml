@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="en-US">
+
+  <file datatype="plaintext" original="DopplerEffect.fla" source-language="EN">
+    <header></header>
+    <body>
+      <trans-unit id="001" resname="IDS_AIR">
+        <source>Air, dry at 20 °C, 343m/s</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CHANGE_RECEIVER_VELOCITY">
+        <source>Detector  Velocity(m/s)</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_CHANGE_SOURCE_FREQUENCY">
+        <source>Source Frequency(Hz)</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_CHANGE_SOURCE_VELOCITY">
+        <source>Source Velocity(m/s)</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_DETECTEDFREQTXT">
+        <source>Detected Frequency(Hz):  </source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_GLASS">
+        <source>Glass, 3962m/s</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_LEFT">
+        <source>Left</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_RESET">
+        <source>Reset</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_RIGHT">
+        <source>Right</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_SELECT_MEDIUM">
+        <source>Select Medium</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_SELECT_RECEIVER_DIRECTION">
+        <source>Select Receiver Direction</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_SELECT_SOURCE_DIRECTION">
+        <source>Select Source Direction</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_SOURCEFREQTXT">
+        <source>Source Frequency(Hz):  </source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_STEEL">
+        <source>Steel, 5800m/s</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_WATER ">
+        <source>Water at 15 °C, 1482m/s</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_WAVERECEIVER">
+        <source>waves detected by the receiver</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_WAVESOURCE">
+        <source>waves emitted from the source           </source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>
