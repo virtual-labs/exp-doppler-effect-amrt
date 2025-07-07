@@ -1,38 +1,38 @@
 {
   "version": 2.0,
   "questions": [
-    {
-      "question": "This is a Sample Question 1?",
+   {
+      "question": "The speed of sound in air at 20°C is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "344 m/s",
+        "b": "342 m/s",
+        "c": "311 m/s",
+        "d": "240 m/s"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Correct – The speed of sound in air at 20°C is approximately 344 m/s.",
+        "b": "Close, but slightly lower than the standard value at 20°C.",
+        "c": "Too low for air at 20°C.",
+        "d": "Too low for typical air temperature."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Number of waves per second is called",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Amplitude",
+        "b": "Frequency",
+        "c": "Velocity",
+        "d": "Wavelength"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Amplitude is the height of the wave, not the count.",
+        "b": "Correct – Frequency is the number of wave cycles per second.",
+        "c": "Velocity refers to the speed of the wave.",
+        "d": "Wavelength is the length of one complete wave."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
